@@ -1,6 +1,6 @@
 # Simple Git
-[![NPM version](https://github.com/peraltalberto/git-js.git)](https://www.npmjs.com/package/simple-git-ex)
-
+[![Build Status](https://travis-ci.org/conventional-changelog/standard-version.svg?branch=master)](https://www.npmjs.com/package/simple-git-ex)
+[![NPM version](https://img.shields.io/npm/v/standard-version.svg)](https://www.npmjs.com/package/simple-git-ex)
 A light weight interface for running git commands in any [node.js](http://nodejs.org) application.
 
 # Installation
