@@ -1,5 +1,5 @@
 # Simple Git
-[![NPM version](https://www.npmjs.com/package/simple-git-ex)](https://www.npmjs.com/package/simple-git-ex)
+[![NPM version](https://github.com/peraltalberto/git-js.git)](https://www.npmjs.com/package/simple-git-ex)
 
 A light weight interface for running git commands in any [node.js](http://nodejs.org) application.
 
