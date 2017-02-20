@@ -1,12 +1,16 @@
 {
-  "name": "simple-git",
+  "name": "simple-git-ex",
   "description": "Simple GIT interface for node.js",
-  "version": "1.66.0",
+  "version": "1.7.2",
   "author": "Steve King <steve@mydev.co>",
   "contributors": [
     {
       "name": "Steve King",
       "email": "steve@mydev.co"
+    },
+    {
+   	"name":"Alberto Peralta",
+	"email": "peraltalberto@gmail.com"
     }
   ],
   "dependencies": {},
@@ -23,7 +27,7 @@
     "vcs"
   ],
   "license": "MIT",
-  "repository": "git://github.com/steveukx/git-js.git",
+  "repository": "git://github.com/peraltalberto/git-js.git",
   "main": "src/index.js",
   "bin": {},
   "scripts": {
